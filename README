@@ -1,0 +1,5 @@
+## To run
+Assuming you have conda installed and setup on your machine...
+
+`conda create -n new environment --file requirements.txt`
+`source activate venv`
